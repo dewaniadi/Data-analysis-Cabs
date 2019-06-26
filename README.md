@@ -25,3 +25,10 @@
 * from_long - longitude of from area
 * to_lat - latitude of to area
 * to_long - longitude of to area
+* Car_Cancellation - whether the booking was cancelled (1) or not (0) due to unavailability of a car.
+
+
+### TASK :
+The biggest challenge is to increase the utilization rate of their cabs. However, the demand keeps fluctuating based on the area, time of day, etc. Your task is to device a geo-surge strategy that would help them incentivize their drivers. Identify what areas and at what times get most bookings and how would you increase the price in those areas in order to meet the demand.
+More than any other task, it will be critical for you to get a deep understanding of the dataset, the business and how you can help them.
+Brownie points​ if you share a recommendation or strategy backed by data that helps them reduce cancellation, increase revenue or reduce costs.
