@@ -1,5 +1,5 @@
-> ## **The goals is to turn data into information**
-> ## **and information into insight**.
+> ### The goals is to turn data into information
+> ### and information into insight
 
 
 # **BANGLORE-CABS-DATA-ANALYSIS**
