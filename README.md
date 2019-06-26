@@ -1,3 +1,7 @@
+> The goals is to turn data into information 
+> and information into insight.
+
+
 # **BANGLORE-CABS-DATA-ANALYSIS**
 
 ## DATA-DESCRIPTON :
