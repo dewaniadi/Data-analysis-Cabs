@@ -1,5 +1,4 @@
-> ### The goals is to turn data into information
-> ### and information into insight
+> ##### The goals is to turn data into information and information into insight :+1 :metal
 
 
 # **BANGLORE-CABS-DATA-ANALYSIS**
